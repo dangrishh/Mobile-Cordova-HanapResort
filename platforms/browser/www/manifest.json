@@ -1,0 +1,10 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Daniel's Resort",
+  "short_name": "Daniel's Resort",
+  "version": "com.example.hello",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
